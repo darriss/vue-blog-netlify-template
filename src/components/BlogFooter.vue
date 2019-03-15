@@ -2,7 +2,7 @@
   <transition appear name="v--mask">
     <footer v-once class="blog__footer">
       <div class="signature cosmicjs">
-        sammy wrote this <a href="https://cosmicjs.com" target="_blank">Cosmic JS</a>
+        Sammy wrote this <a href="https://cosmicjs.com" target="_blank">Cosmic JS</a>
       </div>
     </footer>
   </transition>

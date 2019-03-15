@@ -10,6 +10,7 @@
         <i class="nav__item--icon"></i>
         <span class="nav__item--label">{{ label }}</span>
       </li>
+      <h2>Morocco</h2>
     </transition-group>
   </nav>
 </template>
